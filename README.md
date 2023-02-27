@@ -2,9 +2,9 @@
 A 7 day Vancouver forcast application using OpenWeatherMap API.
 
 ## Tech Stack
-Next.js
-Tailwind CSS
-Openweathermap API
+- Next.js
+- Tailwind CSS
+- Openweathermap API
 
 ## How To Use
 1. npm install
